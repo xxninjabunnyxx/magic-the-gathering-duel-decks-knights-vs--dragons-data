@@ -1,0 +1,116 @@
+---
+object: card
+id: 129e61c0-3ea1-49c5-bed4-9f6db17f7847
+oracle_id: ecb198fc-5663-4380-b2da-ad54421e966d
+multiverse_ids:
+- 243431
+mtgo_id: 40236
+mtgo_foil_id: 40237
+tcgplayer_id: 46825
+cardmarket_id: 245733
+name: Knight Exemplar
+lang: en
+released_at: '2011-04-01'
+uri: https://api.scryfall.com/cards/129e61c0-3ea1-49c5-bed4-9f6db17f7847
+scryfall_uri: https://scryfall.com/card/ddg/14/knight-exemplar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/129e61c0-3ea1-49c5-bed4-9f6db17f7847.jpg?1562898907
+  normal: https://cards.scryfall.io/normal/front/1/2/129e61c0-3ea1-49c5-bed4-9f6db17f7847.jpg?1562898907
+  large: https://cards.scryfall.io/large/front/1/2/129e61c0-3ea1-49c5-bed4-9f6db17f7847.jpg?1562898907
+  png: https://cards.scryfall.io/png/front/1/2/129e61c0-3ea1-49c5-bed4-9f6db17f7847.png?1562898907
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/129e61c0-3ea1-49c5-bed4-9f6db17f7847.jpg?1562898907
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/129e61c0-3ea1-49c5-bed4-9f6db17f7847.jpg?1562898907
+mana_cost: "{1}{W}{W}"
+cmc: 3.0
+type_line: Creature — Human Knight
+oracle_text: |-
+  First strike (This creature deals combat damage before creatures without first strike.)
+  Other Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say "destroy" don't destroy them.)
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cf842e69-7a05-48e2-adac-fd177087caf5
+set: ddg
+set_name: 'Duel Decks: Knights vs. Dragons'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/cf842e69-7a05-48e2-adac-fd177087caf5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/129e61c0-3ea1-49c5-bed4-9f6db17f7847/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aecb198fc-5663-4380-b2da-ad54421e966d&unique=prints
+collector_number: '14'
+digital: false
+rarity: rare
+flavor_text: '"If you think you are brave enough to walk the path of honor, follow
+  me into the dragon''s den."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Chan
+artist_ids:
+- 8062d5a9-51b6-4822-933f-fa9e9dba8416
+illustration_id: 1ea50dc0-e548-497a-9f07-48a8788df3eb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3019
+penny_rank: 1852
+prices:
+  usd: '2.89'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.85'
+  eur_foil: 
+  tix: '4.36'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243431
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Knight+Exemplar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Knight+Exemplar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Knight+Exemplar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/46825?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Knight+Exemplar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40236?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

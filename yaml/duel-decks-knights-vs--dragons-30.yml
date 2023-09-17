@@ -1,0 +1,114 @@
+---
+object: card
+id: 40762529-c2cb-4273-960b-a93748fcba53
+oracle_id: 87b5d197-4400-47ff-89a7-9aeeb7c9a0b4
+multiverse_ids:
+- 243447
+mtgo_id: 40164
+mtgo_foil_id: 40165
+tcgplayer_id: 46842
+cardmarket_id: 245757
+name: Sigil Blessing
+lang: en
+released_at: '2011-04-01'
+uri: https://api.scryfall.com/cards/40762529-c2cb-4273-960b-a93748fcba53
+scryfall_uri: https://scryfall.com/card/ddg/30/sigil-blessing?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/0/40762529-c2cb-4273-960b-a93748fcba53.jpg?1562908341
+  normal: https://cards.scryfall.io/normal/front/4/0/40762529-c2cb-4273-960b-a93748fcba53.jpg?1562908341
+  large: https://cards.scryfall.io/large/front/4/0/40762529-c2cb-4273-960b-a93748fcba53.jpg?1562908341
+  png: https://cards.scryfall.io/png/front/4/0/40762529-c2cb-4273-960b-a93748fcba53.png?1562908341
+  art_crop: https://cards.scryfall.io/art_crop/front/4/0/40762529-c2cb-4273-960b-a93748fcba53.jpg?1562908341
+  border_crop: https://cards.scryfall.io/border_crop/front/4/0/40762529-c2cb-4273-960b-a93748fcba53.jpg?1562908341
+mana_cost: "{G}{W}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Until end of turn, target creature you control gets +3/+3 and other creatures
+  you control get +1/+1.
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cf842e69-7a05-48e2-adac-fd177087caf5
+set: ddg
+set_name: 'Duel Decks: Knights vs. Dragons'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/cf842e69-7a05-48e2-adac-fd177087caf5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/40762529-c2cb-4273-960b-a93748fcba53/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87b5d197-4400-47ff-89a7-9aeeb7c9a0b4&unique=prints
+collector_number: '30'
+digital: false
+rarity: common
+flavor_text: '"For unwavering commitment and unflinching strength, the Order of the
+  White Orchid confers its sigil. Rise, knight-captain, and do your duty."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Stewart
+artist_ids:
+- 20871267-2d8a-41d5-b03a-be3d557c5734
+illustration_id: 4f6fbcce-75e8-4846-ba82-d951a4e259c7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 17584
+penny_rank: 6974
+prices:
+  usd: '0.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.18'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243447
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sigil+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sigil+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sigil+Blessing
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/46842?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sigil+Blessing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40164?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

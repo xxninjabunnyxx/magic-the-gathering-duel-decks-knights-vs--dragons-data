@@ -1,0 +1,111 @@
+---
+object: card
+id: 59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e
+oracle_id: 3397aa3d-bf73-4ca3-a806-059361603079
+multiverse_ids:
+- 243445
+mtgo_id: 40398
+mtgo_foil_id: 40399
+tcgplayer_id: 46840
+cardmarket_id: 245759
+name: Test of Faith
+lang: en
+released_at: '2011-04-01'
+uri: https://api.scryfall.com/cards/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e
+scryfall_uri: https://scryfall.com/card/ddg/28/test-of-faith?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/9/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e.jpg?1562913726
+  normal: https://cards.scryfall.io/normal/front/5/9/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e.jpg?1562913726
+  large: https://cards.scryfall.io/large/front/5/9/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e.jpg?1562913726
+  png: https://cards.scryfall.io/png/front/5/9/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e.png?1562913726
+  art_crop: https://cards.scryfall.io/art_crop/front/5/9/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e.jpg?1562913726
+  border_crop: https://cards.scryfall.io/border_crop/front/5/9/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e.jpg?1562913726
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Prevent the next 3 damage that would be dealt to target creature this
+  turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cf842e69-7a05-48e2-adac-fd177087caf5
+set: ddg
+set_name: 'Duel Decks: Knights vs. Dragons'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/cf842e69-7a05-48e2-adac-fd177087caf5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3397aa3d-bf73-4ca3-a806-059361603079&unique=prints
+collector_number: '28'
+digital: false
+rarity: uncommon
+flavor_text: Those who survive the test bear a mark of power anyone can recognize.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vance Kovacs
+artist_ids:
+- b5516011-4722-4fc8-8542-102cecc52b71
+illustration_id: 49cf88d8-ea6e-40d3-a52a-7c845d88c0d3
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 20491
+penny_rank: 7375
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.32'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243445
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Test+of+Faith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Test+of+Faith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Test+of+Faith
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/46840?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Test+of+Faith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40398?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
